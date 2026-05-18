@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Ginameo
 
-<!--
-**Ginameo/Ginameo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Newbie security researcher learning smart contract security and blockchain development.
 
-Here are some ideas to get you started:
+## 🔍 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ Smart contract security auditing
+- 🔗 Cross-chain bridge analysis  
+- 🐛 Bug bounty hunting on Immunefi
+- ⚡ Building security tools
+
+## 🛠️ Tech Stack
+
+**Languages:** Solidity, TypeScript, JavaScript, Python  
+**Tools:** Foundry, Hardhat, Slither  
+**Focus:** Ethereum, DeFi protocols
+
+## 📚 Resources
+
+Check out my [Gists](https://gist.github.com/Ginameo) for:
+- Solidity security patterns
+- Smart contract audit checklists
+- Testing templates
+- Transaction analyzers
+
+## 🎯 Current Goals
+
+- Learn smart contract security fundamentals
+- Contribute to bug bounty programs
+- Build security analysis tools
+- Share knowledge with the community
+
+## 📫 Contact
+
+- 💼 Immunefi: @meongkuy
+- 🐦 Twitter: [@meongkuy](https://twitter.com/meongkuy)
+
+---
+
+<div align="center">
+  <i>"Learning security one bug at a time."</i>
+</div>
